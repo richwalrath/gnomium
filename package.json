@@ -1,0 +1,24 @@
+{
+  "name": "gnomium",
+  "version": "0.1.0",
+  "description": "GnomiumJS is a small modular cross-platform library for browsers, and node.js. GnomiumJS is designed to allow you to pick and choose from a selection of modules to just use the features you want.",
+  "main": "dist/gnomium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richwalrath/gnomium.git"
+  },
+  "keywords": ["gnomium", "gnome", "javascript", "toolkit", "toolset"],
+  "author": "Rich Walrath",
+  "license": "MIT",
+  "bugs": {"url": "https://github.com/richwalrath/gnomium/issues"},
+  "homepage": "https://github.com/richwalrath/gnomium#readme",
+  "dependencies": [],
+  "devDependencies": [
+    "gulp",
+    "markdown-include",
+    "chalk"
+  ]
+}
